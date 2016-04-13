@@ -2,9 +2,11 @@
 Internet of Things Lite Brite Drawing Canvas, connecting WS2812 LEDs to a web server with the Particle Photon
 
 For more info, see: http://johnventions.com/projects/lite-brite
+
 Many thanks to https://github.com/harrisonhjones/ for creating the PHP Particle Library
 
 Files in the web-folder correspond to items that should be in the browser
+
 Files in the hardware folder corrrespond to items that are embedded firmware
 
 Files and Descriptions
